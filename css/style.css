@@ -160,6 +160,25 @@ iframe {
     justify-content: center;
 }
 
+table {
+    border: 4px solid black;
+    padding: .2rem;
+    border-spacing: 0;
+    font-size: 12px;
+}
+
+th {
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: .1rem .2rem;
+}
+
+td {
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: .1rem .2rem;
+}
+
 /* Tablets */
 @media (min-width: 768px) {
     html {
@@ -182,6 +201,10 @@ iframe {
     .headshot {
         width: 400px;
     }
+
+    table {
+        font-size: 16px;
+    }
 }
 
 /* Desktops */
@@ -192,5 +215,9 @@ iframe {
 
     main {
         max-width: 960px;
+    }
+
+    table {
+        font-size: 18px;
     }
 }
