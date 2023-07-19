@@ -208,6 +208,11 @@ td {
     padding-top: .5rem;
 }
 
+.project-div {
+    border: 3px solid #11324b;
+    padding: 0 1rem;
+}
+
 /* Tablets */
 @media (min-width: 768px) {
     html {
