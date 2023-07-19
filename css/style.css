@@ -179,6 +179,35 @@ td {
     padding: .1rem .2rem;
 }
 
+.work-div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 2rem 2rem auto;
+    border: 3px solid #11324b;
+    padding: .5rem;
+}
+
+.job-period, .job-location {
+    justify-self: end;
+    align-self: center;
+}
+
+.job-title, .job-company {
+    justify-self: start;
+    align-self: center;
+}
+
+.job-description {
+    grid-column: span 2;
+}
+
+.job-leave-reason {
+    grid-column: span 2;
+    border-top: 2px solid black;
+    align-self: center;
+    padding-top: .5rem;
+}
+
 /* Tablets */
 @media (min-width: 768px) {
     html {
