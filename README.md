@@ -6,8 +6,6 @@ This is a website created to act as my professional portfolio. It is a full webs
 
 # Contact Info
 
-While my contact info is included in the [Contact Info](https://apache-pine.github.io/Portfolio/about.html#contact-info) section of the About Page, I will include it here as well for convenience:
-
 <strong>Email: </strong>[kylar.sorensen@gmail.com](mailto:kylar.sorensen@gmail.com)
 <br />
 <strong>Phone: </strong>[+1 (541) 561-7270](tel:+15415617270)
