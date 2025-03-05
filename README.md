@@ -8,4 +8,4 @@ This is a website created to act as my professional portfolio. It is a full webs
 
 <strong>Email: </strong>[kylar.sorensen@gmail.com](mailto:kylar.sorensen@gmail.com)
 <br />
-<strong>Phone: </strong>[+1 (541) 561-7270](tel:+15415617270)
+<strong>Phone: </strong>[(541) 561-7270](tel:+15415617270)
